@@ -1,5 +1,7 @@
 # Operation System
 
+2021.03 ~ 2021.11
+
 Studied in FastCampus
 
 Also trained by myself on '도전! 임베디드 OS 만들기'
